@@ -27,6 +27,10 @@ body {
   margin-right: auto;
   max-width: initial; }
 
+h2, h3 {
+  color: white;
+}
+
 .fullHeight {
   height: 300px; }
 
